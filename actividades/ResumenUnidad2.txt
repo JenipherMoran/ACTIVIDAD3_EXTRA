@@ -1,0 +1,35 @@
+En la Unidad 2 aprendimos sobre las variables que se usan en el lenjuaje JavaScript.
+
+-- Las variables son datos que se almacenan en la memoria y pueden cambiar su valor durante la ejecución de un programa.
+
+-- Tipo de datos: Es una clasificación que define los posibles valores y operaciones que se pueden realizar.
+
+-- Operaciones numéricas:
+   
+   + Suma
+   - Resta
+   * Multiplicación
+   / División
+   % Módulo
+
+-- Operaciones comparativas: Son operadores en su mayoría binarios y nos permiten comparar datos devolviendo un valor falso o verdadero.
+
+  == Igualdad
+  != No igualdad
+  > Mayor que
+  >= Mayor o igual que
+  < Menor que
+  <= Menor o igual que
+
+-- Tipo de datos lógicos: En javascript se utilizan palabras reservadas True y false.
+
+-- Operadores comparativos: Son utilizados para cumplir multiples condiciones.
+
+-- Operadores Lógicos:
+
+AND: El resultado es VERDADERO si ambas expresiones son verdaderas.
+OR: El resultado es VERDADERO si alguna expresión es verdadera.
+NOT: El resultado invierte la lógica.
+
+En la unidad 2 iniciamos a crear pequeños programas utilizando Javascript y aprendimos como se aplica la lógica para que un programa realice una acción específica.
+

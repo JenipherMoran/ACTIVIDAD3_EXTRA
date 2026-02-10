@@ -1,0 +1,20 @@
+En la Unidad 3 iniciamos a utilizar controladores de versiones que nos permiten llevar un registro del proyecto que se esta trabajando.
+
+-- Beneficios principales:
+
+-- Gestión del historial
+-- Trabajo colaborativo
+-- Seguridad
+-- Ramificación y Fusión
+
+En esta unidad utilizamos GIT uno de los controladores más popular y utilizada por ser rápida y flexible.
+
+Componentes Clave:
+
+-- Repositorio: Base de datos donde se almacena el historial y archivos.
+
+-- Commit: Snapchot de los cambios guardados en un repositorio.
+
+-- Branches: Líneas de desarrollo independientes.
+
+Lo que más me gusto de la unidad 3 es que aprendí a crear repositorios, hacer commits y branches desde la CLI de git.
