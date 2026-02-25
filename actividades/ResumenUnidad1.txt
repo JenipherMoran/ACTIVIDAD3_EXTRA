@@ -1,0 +1,16 @@
+En la Unidad 1 iniciamos con los conceptos básicos de programacion.
+
+-- Sitema Binario: es un sistema numérico representado por dos dígitos conocidos como bits 0 y 1.
+  -- Cómo calcular el binario de un número decimal usando potencias de 2.
+  -- También aprendimos sobre el estandar ASCII que codifica las palabras al código binario.
+
+-- Lógica: Nos brinda lineamientos y herramientas para determinar si un razonamiento es válido o invalido, y que este puede ser verdadero o falso.
+  -- Conjunción (Y/AND/&&/∧): utilizado para conectar dos preposiciones lógicas que deben ser verdaderas para obtener un resultado verdadero.
+  -- Disyunción (O/OR/||/V): Se utiliza para conectar dos preposiciones lógicas donde cualquier de las dos debe ser verdadera para obtener un resultado           verdadero.
+  -- Negación (!/NO/NOT): Se utiliza para negar una preposición lógica.
+
+-- Alogoritmo: Conjunto de pasos finitos que se deben seguir para resolver un problema. Estos pasos deben tener un orden lógico y se pueden intercambiar siempre    y cuando no se altere el resultado.
+
+-- Programación: Es crear una secuencia de instrucciones para que una computadora resuelva un problema, utilizando la lógica y los algoritmos.
+
+Los conceptos básicos de la primer unidad nos permitió entender cómo funciona la lógica y en lenguaje que hablan las computadoras para poder darle instrucciones claras para resolver un problema.
